@@ -14,6 +14,7 @@
 		0238A113293BE31600665F4D /* d2code.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0238A112293BE31600665F4D /* d2code.swift */; };
 		0238A117293BECA200665F4D /* d3data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0238A116293BECA200665F4D /* d3data.swift */; };
 		0238A119293C05FB00665F4D /* d3code.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0238A118293C05FB00665F4D /* d3code.swift */; };
+		02CCC7D1293D715D00F804B3 /* d4data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CCC7D0293D715D00F804B3 /* d4data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,7 @@
 		0238A112293BE31600665F4D /* d2code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = d2code.swift; sourceTree = "<group>"; };
 		0238A116293BECA200665F4D /* d3data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = d3data.swift; sourceTree = SOURCE_ROOT; };
 		0238A118293C05FB00665F4D /* d3code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = d3code.swift; sourceTree = SOURCE_ROOT; };
+		02CCC7D0293D715D00F804B3 /* d4data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = d4data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 		0238A104293BC51A00665F4D /* AdventofCode2022 */ = {
 			isa = PBXGroup;
 			children = (
+				02CCC7D0293D715D00F804B3 /* d4data.swift */,
 				0238A118293C05FB00665F4D /* d3code.swift */,
 				0238A116293BECA200665F4D /* d3data.swift */,
 				0238A112293BE31600665F4D /* d2code.swift */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0238A113293BE31600665F4D /* d2code.swift in Sources */,
+				02CCC7D1293D715D00F804B3 /* d4data.swift in Sources */,
 				0238A10D293BC56B00665F4D /* d1data.swift in Sources */,
 				0238A119293C05FB00665F4D /* d3code.swift in Sources */,
 				0238A117293BECA200665F4D /* d3data.swift in Sources */,

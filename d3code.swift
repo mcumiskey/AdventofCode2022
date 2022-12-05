@@ -337,4 +337,4 @@ func findCommonItemBetweenThree(rucksack1: String, rucksack2: String, rucksack3:
     return "none"
 }
 
-d3p2()
+
